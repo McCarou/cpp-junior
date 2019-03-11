@@ -1,5 +1,5 @@
 In Linux:
 run in terminal:
 >> g++ -o sol_1 sol_1.cpp
->> ./sol1
+>> ./sol_1
 Must be printed "Hello world"
